@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0091/WYG/v1/juan/47
+seq: 47
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 集
+  hash: sha256:5bbadd8f8c4f781dffdb673736ec01b03fdf7c9d348449f63fe1d74e1d653336
+metadata:
+  title: 淮海集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 09:57:42.328066'
+  source:
+    repository: kanripo
+    path: KR4d0091/KR4d0091_047.txt
+hash: sha256:d8e6001aefca91b58d86404c975de94548a58532553f6772c674eb581a558c38

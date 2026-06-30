@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0091/krp/v1/juan/48
+seq: 48
+front:
+  text: 淮海長短句目録卷上
+  hash: sha256:50380ba97def9be936969b81f862b966b5a67dcccd49de512e448c676b7f43c3
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0091_SBCK_048-1a}
+body:
+  text: 望海潮四首心園春水龍吟八六子風流子夢楊州雨中花一叢花鼓笛幔促拍滿路花長相思滿庭芳三首江城子三首滿園花迎春樂卷中鵲橋仙菩薩蠻减字木蘭花木蘭花畵棠春千秋嵗踏莎行蝶戀花一落索醜奴兒南鄉子醉桃源河傳二首浣溪沙五首如夢今五首阮郎歸四首滿庭芳三首桃源憶故人卷下調笑令十首并詩王昭君樂昌公主崔徽無雙灼灼眄眄崔鶯鶯採蓮煙中怨離魂記虞羙人三首㸃綘唇二首品令二首南歌子三首臨江仙二首好事近淮海長短句目鐸畢
+  hash: sha256:53e322075d94f30fce9762910fc6a0faedfc717e5192b6af45f1d8ca0ee4a13c
+metadata:
+  title: 淮海集
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-11 09:57:42.328066'
+  source:
+    repository: kanripo
+    path: KR4d0091/KR4d0091_048.txt
+hash: sha256:e53ededecfa89050442577eab15edbbdfdd599677ff798cc2cc1f6d082737eb6
