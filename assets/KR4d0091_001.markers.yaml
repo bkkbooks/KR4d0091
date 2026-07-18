@@ -22,6 +22,7 @@ markers:
   - {type: line-break, offset: 4, content: '', id: KR4d0091_SBCK_001-1a03}
   - {type: indent, offset: 4, content: 　　, id: KR4d0091_krp_001-bkkind4}
   - {type: punctuation, offset: 8, content: (, id: KR4d0091_krp_001-bkkpn1}
+  - {type: voice, offset: 8, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 10, content: ), id: KR4d0091_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 10, content: '
 
@@ -228,6 +229,7 @@ markers:
   - {type: indent, offset: 531, content: 　　, id: KR4d0091_krp_001-bkkind5}
   - {type: substitution, offset: 531, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 534, content: (, id: KR4d0091_krp_001-bkkpn3}
+  - {type: voice, offset: 534, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 536, content: ), id: KR4d0091_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 536, content: '
 
@@ -398,6 +400,7 @@ markers:
   - {type: punctuation, offset: 964, content: (, id: KR4d0091_krp_001-bkkpn5}
   - {type: variant, offset: 964, length: 1, content: 寄, SBCK: 􅀉}
   - {type: variant, offset: 964, length: 0, content: '', WYG: 子瞻謝詩云我太虛以黄樓賦見}
+  - {type: voice, offset: 964, length: 117, name: note, id: n3}
   - {type: variant, offset: 969, length: 1, content: 我, WYG: ''}
   - {type: substitution, offset: 971, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: substitution, offset: 976, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -930,6 +933,7 @@ markers:
   - {type: indent, offset: 2435, content: 　　, id: KR4d0091_krp_001-bkkind21}
   - {type: punctuation, offset: 2443, content: (, id: KR4d0091_krp_001-bkkpn18}
   - {type: variant, offset: 2443, length: 0, content: '', WYG: 汾陽征虜}
+  - {type: voice, offset: 2443, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 2447, content: /, id: KR4d0091_krp_001-bkkpn19}
   - {type: variant, offset: 2447, length: 5, content: 汾陽征虜回, WYG: 囬}
   - {type: punctuation, offset: 2451, content: ), id: KR4d0091_krp_001-bkkpn20}
@@ -1267,4 +1271,4 @@ markers:
   - {type: variant, offset: 3342, length: 0, content: '', WYG: 欽定四庫全書淮海集巻}
   - {type: page-break, offset: 3342, content: '', id: KR4d0091_WYG_002-1a, image: WYG1115/WYG1115-0437a.png}
   back: []
-hash: sha256:886d064a6ef0f2c1493c138f04700d10bfc0d6b39d212f2f6e652187babe979b
+hash: sha256:b69b298b68ed65b65719f5e7dd387669cf72437114161d025c2565acbdddfa74

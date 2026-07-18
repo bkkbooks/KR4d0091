@@ -81,6 +81,7 @@ markers:
   - {type: substitution, offset: 158, original: 烟, replacement: 煙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17207}}
   - {type: punctuation, offset: 160, content: (, id: KR4d0091_krp_007-bkkpn1}
   - {type: variant, offset: 160, length: 0, content: '', WYG: 子由}
+  - {type: voice, offset: 160, length: 44, name: note, id: n1}
   - {type: punctuation, offset: 162, content: /, id: KR4d0091_krp_007-bkkpn2}
   - {type: variant, offset: 162, length: 22, content: 子由飮食隨魚蠏封疆八斗牛風波方在眼轉覺此生浮, WYG: ''}
   - {type: punctuation, offset: 164, content: ), id: KR4d0091_krp_007-bkkpn3}
@@ -251,6 +252,7 @@ markers:
   - {type: substitution, offset: 587, original: 凉, replacement: 涼, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17200}}
   - {type: punctuation, offset: 588, content: (, id: KR4d0091_krp_007-bkkpn7}
   - {type: variant, offset: 588, length: 0, content: '', WYG: 莘老}
+  - {type: voice, offset: 588, length: 44, name: note, id: n2}
   - {type: punctuation, offset: 590, content: /, id: KR4d0091_krp_007-bkkpn8}
   - {type: variant, offset: 590, length: 22, content: 莘老茂宰藹休政道人棲淨坊怳如豋十地熱惱頓清凉, WYG: ''}
   - {type: punctuation, offset: 592, content: ), id: KR4d0091_krp_007-bkkpn9}
@@ -276,6 +278,7 @@ markers:
   - {type: variant, offset: 637, length: 1, content: 懷, WYG: 懐}
   - {type: variant, offset: 639, length: 1, content: 博, SBCK: 􅀶}
   - {type: punctuation, offset: 645, content: (, id: KR4d0091_krp_007-bkkpn13}
+  - {type: voice, offset: 645, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 648, content: ), id: KR4d0091_krp_007-bkkpn14}
   - {type: 'kr:newline', offset: 648, content: '
 
@@ -416,6 +419,7 @@ markers:
   - {type: variant, offset: 999, length: 1, content: 淸, WYG: 清}
   - {type: punctuation, offset: 1003, content: (, id: KR4d0091_krp_007-bkkpn15}
   - {type: variant, offset: 1003, length: 2, content: 七韻, WYG: ''}
+  - {type: voice, offset: 1003, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 1005, content: /, id: KR4d0091_krp_007-bkkpn16}
   - {type: punctuation, offset: 1007, content: ), id: KR4d0091_krp_007-bkkpn17}
   - {type: 'kr:newline', offset: 1007, content: '
@@ -633,6 +637,7 @@ markers:
   - {type: indent, offset: 1544, content: 　　, id: KR4d0091_krp_007-bkkind21}
   - {type: substitution, offset: 1548, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
   - {type: punctuation, offset: 1553, content: (, id: KR4d0091_krp_007-bkkpn18}
+  - {type: voice, offset: 1553, length: 5, name: note, id: n5}
   - {type: punctuation, offset: 1558, content: ), id: KR4d0091_krp_007-bkkpn19}
   - {type: 'kr:newline', offset: 1558, content: '
 
@@ -796,6 +801,7 @@ markers:
   - {type: substitution, offset: 1958, original: 囬, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20168}}
   - {type: punctuation, offset: 1965, content: (, id: KR4d0091_krp_007-bkkpn20}
   - {type: variant, offset: 1965, length: 0, content: '', WYG: 湯泉有}
+  - {type: voice, offset: 1965, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 1968, content: /, id: KR4d0091_krp_007-bkkpn21}
   - {type: variant, offset: 1968, length: 3, content: 湯泉有, WYG: ''}
   - {type: punctuation, offset: 1971, content: ), id: KR4d0091_krp_007-bkkpn22}
@@ -1055,4 +1061,4 @@ markers:
   - {type: variant, offset: 2584, length: 0, content: '', WYG: 欽定四庫全書淮海集巻八宋秦觀撰}
   - {type: page-break, offset: 2584, content: '', id: KR4d0091_WYG_008-1a, image: WYG1115/WYG1115-0464c.png}
   back: []
-hash: sha256:18de99cfbadbbb01dac14480a767a760f7b25255637d8c9a5ba1b7554216b72f
+hash: sha256:15fc4976466892148bb4fa40327ed7d02e81b75e68ed07e3593c44cfec835e92

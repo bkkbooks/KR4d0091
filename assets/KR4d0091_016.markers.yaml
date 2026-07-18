@@ -264,6 +264,7 @@ markers:
   - {type: line-break, offset: 926, content: '', id: KR4d0091_SBCK_016-3a02}
   - {type: punctuation, offset: 937, content: (, id: KR4d0091_krp_016-bkkpn1}
   - {type: variant, offset: 937, length: 0, content: '', WYG: 無正兵為主}
+  - {type: voice, offset: 937, length: 10, name: note, id: n1}
   - {type: punctuation, offset: 942, content: /, id: KR4d0091_krp_016-bkkpn2}
   - {type: variant, offset: 942, length: 5, content: 無正兵為主, WYG: ''}
   - {type: punctuation, offset: 947, content: ), id: KR4d0091_krp_016-bkkpn3}
@@ -899,4 +900,4 @@ markers:
   - {type: variant, offset: 3178, length: 0, content: '', WYG: 欽定四庫全書淮海集巻十七宋秦觀撰}
   - {type: page-break, offset: 3178, content: '', id: KR4d0091_WYG_017-1a, image: WYG1115/WYG1115-0511a.png}
   back: []
-hash: sha256:f19a95108e99b49408a8555d64cb4ee78f90beff7d38c94a870517288eb7ef9c
+hash: sha256:c8a460877ce207179c71dbf29e8d58310016231101a0482989b3d114e1ca15c1

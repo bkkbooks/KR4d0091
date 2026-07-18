@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0091_SBCK_002-1a01}
   - {type: variant, offset: 0, length: 5, content: 淮海集卷之, WYG: ''}
   - {type: punctuation, offset: 6, content: (, id: KR4d0091_krp_002-bkkpn1}
+  - {type: 'voice:problem', offset: 6, length: 0, id: KR4d0091_bkk_002-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 6}
   - {type: variant, offset: 8, length: 0, content: '', WYG: 宋}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0091_krp_002-bkkpn1}
@@ -16,6 +17,7 @@ markers:
       ', id: KR4d0091_krp_002-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0091_SBCK_002-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　　　, id: KR4d0091_krp_002-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0091_bkk_002-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR4d0091_krp_002-bkkind2}
   - {type: indent, offset: 2, content: 　, id: KR4d0091_krp_002-bkkind3}
   - {type: variant, offset: 2, length: 2, content: 少游, WYG: 撰}
@@ -1015,4 +1017,4 @@ markers:
   - {type: page-break, offset: 2648, content: '', id: KR4d0091_WYG_002-10b, image: WYG1115/WYG1115-0441d.png}
   - {type: page-break, offset: 2648, content: '', id: KR4d0091_WYG_003-1a, image: WYG1115/WYG1115-0442a.png}
   back: []
-hash: sha256:c5943f7d899d970b0779f2f771be37505535ce30feb93184a5f31593759b5e90
+hash: sha256:21ac805efad48d38b5c9edfb611ab7157f01b51d633fd6dc3b27cf6eb7b69e71

@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 8, content: 淮海集卷之三十四, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR4d0091_krp_034-bkkpn1}
   - {type: substitution, offset: 8, original: 賛, replacement: 贊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17775}}
+  - {type: 'voice:problem', offset: 8, length: 0, id: KR4d0091_bkk_034-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 8}
   - {type: substitution, offset: 9, original: 䟦, replacement: 跋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19443}}
   - {type: variant, offset: 10, length: 4, content: 秦觀少㳺, WYG: ''}
   body:
@@ -18,6 +19,7 @@ markers:
       ', id: KR4d0091_krp_034-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0091_SBCK_034-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　　　, id: KR4d0091_krp_034-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0091_bkk_034-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR4d0091_krp_034-bkkind2}
   - {type: indent, offset: 2, content: 　, id: KR4d0091_krp_034-bkkind3}
   - {type: substitution, offset: 3, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
@@ -784,4 +786,4 @@ markers:
   - {type: variant, offset: 2557, length: 0, content: '', WYG: 欽定四庫全書淮海集巻三十五宋秦觀撰跋}
   - {type: page-break, offset: 2557, content: '', id: KR4d0091_WYG_035-1a, image: WYG1115/WYG1115-0610a.png}
   back: []
-hash: sha256:674862eb02286390f3e58c1251526b2bc49d814809f1f37464d21c9afa127abf
+hash: sha256:c15b6ee18217b27de39210828ca326f9029ac86acd2396c51767ff5a2c203e97

@@ -9,6 +9,7 @@ markers:
   - {type: variant, offset: 0, length: 6, content: 淮海後集巻之, WYG: ''}
   - {type: substitution, offset: 4, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 7, content: (, id: KR4d0091_krp_043-bkkpn1}
+  - {type: 'voice:problem', offset: 7, length: 0, id: KR4d0091_bkk_043-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 7}
   - {type: variant, offset: 8, length: 0, content: '', WYG: 宋}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0091_krp_043-bkkpn1}
@@ -17,6 +18,7 @@ markers:
       ', id: KR4d0091_krp_043-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0091_SBCK_043-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　　　, id: KR4d0091_krp_043-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0091_bkk_043-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR4d0091_krp_043-bkkind2}
   - {type: indent, offset: 2, content: 　, id: KR4d0091_krp_043-bkkind3}
   - {type: variant, offset: 2, length: 2, content: 少游, WYG: 撰}
@@ -783,4 +785,4 @@ markers:
   - {type: variant, offset: 2399, length: 0, content: '', WYG: 欽定四庫全書淮海後集巻}
   - {type: page-break, offset: 2399, content: '', id: KR4d0091_WYG_043-1a, image: WYG1115/WYG1115-0663a.png}
   back: []
-hash: sha256:02ee9c57ec0781ab846ad6aa279e0f15d66b496ec04aaf04b5ae753e1b0f7566
+hash: sha256:5b2e119b7d4a925dbd848d69a270f44b299a97762e27b24c3e7fde10ac7d2999

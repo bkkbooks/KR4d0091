@@ -99,6 +99,7 @@ markers:
   - {type: page-break, offset: 224, content: '', id: KR4d0091_WYG_032-2a, image: WYG1115/WYG1115-0593c.png}
   - {type: substitution, offset: 228, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 230, content: (, id: KR4d0091_krp_032-bkkpn1}
+  - {type: voice, offset: 230, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 232, content: ), id: KR4d0091_krp_032-bkkpn2}
   - {type: substitution, offset: 236, original: 庻, replacement: 庶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17347}}
   - {type: 'kr:newline', offset: 245, content: '
@@ -713,4 +714,4 @@ markers:
   - {type: variant, offset: 2153, length: 0, content: '', WYG: 欽定四庫全書淮海集巻三十三宋秦觀撰誌銘}
   - {type: page-break, offset: 2153, content: '', id: KR4d0091_WYG_033-1a, image: WYG1115/WYG1115-0597a.png}
   back: []
-hash: sha256:f7bce0c975980e5c7217fa8a8e70503a38eba9643849dbd88bc091b39bb3e3bd
+hash: sha256:1fc89349f79e0ccf61179add71c05b7844e5334144df7e503476f111dc5ab4f7

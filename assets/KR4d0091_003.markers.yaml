@@ -288,6 +288,7 @@ markers:
   - {type: line-break, offset: 711, content: '', id: KR4d0091_SBCK_003-2b03}
   - {type: punctuation, offset: 728, content: (, id: KR4d0091_krp_003-bkkpn1}
   - {type: variant, offset: 728, length: 1, content: 常, WYG: ''}
+  - {type: voice, offset: 728, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 729, content: /, id: KR4d0091_krp_003-bkkpn2}
   - {type: punctuation, offset: 731, content: ), id: KR4d0091_krp_003-bkkpn3}
   - {type: variant, offset: 731, length: 0, content: '', WYG: 常}
@@ -297,6 +298,7 @@ markers:
   - {type: line-break, offset: 733, content: '', id: KR4d0091_SBCK_003-2b04}
   - {type: punctuation, offset: 750, content: (, id: KR4d0091_krp_003-bkkpn4}
   - {type: variant, offset: 750, length: 1, content: 雄, WYG: ''}
+  - {type: voice, offset: 750, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 751, content: /, id: KR4d0091_krp_003-bkkpn5}
   - {type: punctuation, offset: 753, content: ), id: KR4d0091_krp_003-bkkpn6}
   - {type: variant, offset: 753, length: 0, content: '', WYG: 雄}
@@ -377,6 +379,7 @@ markers:
   - {type: substitution, offset: 954, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19843}}
   - {type: punctuation, offset: 966, content: (, id: KR4d0091_krp_003-bkkpn7}
   - {type: variant, offset: 966, length: 5, content: 淮海無林丘, WYG: ''}
+  - {type: voice, offset: 966, length: 629, name: note, id: n3}
   - {type: punctuation, offset: 971, content: /, id: KR4d0091_krp_003-bkkpn8}
   - {type: punctuation, offset: 976, content: ), id: KR4d0091_krp_003-bkkpn9}
   - {type: 'kr:newline', offset: 976, content: '
@@ -642,6 +645,7 @@ markers:
   - {type: line-break, offset: 1641, content: '', id: KR4d0091_SBCK_003-3b10}
   - {type: punctuation, offset: 1649, content: (, id: KR4d0091_krp_003-bkkpn64}
   - {type: variant, offset: 1649, length: 0, content: '', WYG: 魯直倡起虛飄飄虚飄飄花飛不}
+  - {type: voice, offset: 1649, length: 106, name: note, id: n4}
   - {type: variant, offset: 1652, length: 1, content: 起, WYG: ''}
   - {type: variant, offset: 1661, length: 32, content: 逰魯直倡虚飄飄虚飄飄花飛不比人生命猶堅牢子瞻和虚飄飄虚飄飄畫簷蛛, WYG: 遊}
   - {type: punctuation, offset: 1662, content: /, id: KR4d0091_krp_003-bkkpn65}
@@ -690,6 +694,7 @@ markers:
   - {type: page-break, offset: 1755, content: '', id: KR4d0091_WYG_003-5b, image: WYG1115/WYG1115-0444b.png}
   - {type: substitution, offset: 1756, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 1759, content: (, id: KR4d0091_krp_003-bkkpn76}
+  - {type: voice, offset: 1759, length: 6, name: note, id: n5}
   - {type: substitution, offset: 1763, original: 彦, replacement: 彥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20772}}
   - {type: punctuation, offset: 1765, content: ), id: KR4d0091_krp_003-bkkpn77}
   - {type: 'kr:newline', offset: 1765, content: '
@@ -745,6 +750,7 @@ markers:
   - {type: page-break, offset: 1912, content: '', id: KR4d0091_WYG_003-6a, image: WYG1115/WYG1115-0444c.png}
   - {type: punctuation, offset: 1925, content: (, id: KR4d0091_krp_003-bkkpn78}
   - {type: variant, offset: 1925, length: 0, content: '', WYG: 陪彦瞻遊金山子由}
+  - {type: voice, offset: 1925, length: 418, name: note, id: n6}
   - {type: punctuation, offset: 1927, content: /, id: KR4d0091_krp_003-bkkpn79}
   - {type: punctuation, offset: 1932, content: /, id: KR4d0091_krp_003-bkkpn80}
   - {type: variant, offset: 1932, length: 5, content: 陪彦瞻逰金, WYG: 隱隱大如幘朅來長江上孤髙二千尺僧居厭}
@@ -974,6 +980,7 @@ markers:
   - {type: page-break, offset: 2440, content: '', id: KR4d0091_WYG_003-7a, image: WYG1115/WYG1115-0445a.png}
   - {type: punctuation, offset: 2456, content: (, id: KR4d0091_krp_003-bkkpn113}
   - {type: variant, offset: 2456, length: 0, content: '', WYG: 子瞻詩云適}
+  - {type: voice, offset: 2456, length: 103, name: note, id: n7}
   - {type: variant, offset: 2460, length: 5, content: 適子瞻詩云, WYG: 遇勝輒留連焚香引幽步酌茗開淨筵㣲雨止還作小}
   - {type: punctuation, offset: 2461, content: /, id: KR4d0091_krp_003-bkkpn114}
   - {type: punctuation, offset: 2465, content: ), id: KR4d0091_krp_003-bkkpn115}
@@ -1084,4 +1091,4 @@ markers:
   - {type: variant, offset: 2689, length: 0, content: '', WYG: 欽定四庫全書淮海集巻四宋秦觀撰}
   - {type: page-break, offset: 2689, content: '', id: KR4d0091_WYG_004-1a, image: WYG1115/WYG1115-0446a.png}
   back: []
-hash: sha256:d61322b2962a45c1948d1d8832d7b3f5aac2c877c6563373aa4b21792cabbf6c
+hash: sha256:b712dd0918e5d62b1f06178fe1b9e6efad8b6d70ed21403f322e8896fc42c6ca

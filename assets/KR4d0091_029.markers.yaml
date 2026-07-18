@@ -53,6 +53,7 @@ markers:
       ', id: KR4d0091_krp_029-bkkkrnewl9}
   - {type: line-break, offset: 136, content: '', id: KR4d0091_SBCK_029-1a10}
   - {type: punctuation, offset: 137, content: (, id: KR4d0091_krp_029-bkkpn1}
+  - {type: voice, offset: 137, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 139, content: ), id: KR4d0091_krp_029-bkkpn2}
   - {type: 'kr:newline', offset: 139, content: '
 
@@ -98,6 +99,7 @@ markers:
   - {type: line-break, offset: 271, content: '', id: KR4d0091_SBCK_029-1b06}
   - {type: substitution, offset: 276, original: 効, replacement: 效, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17195}}
   - {type: punctuation, offset: 282, content: (, id: KR4d0091_krp_029-bkkpn3}
+  - {type: voice, offset: 282, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 284, content: ), id: KR4d0091_krp_029-bkkpn4}
   - {type: 'kr:newline', offset: 284, content: '
 
@@ -225,6 +227,7 @@ markers:
       ', id: KR4d0091_krp_029-bkkkrnewl43}
   - {type: line-break, offset: 687, content: '', id: KR4d0091_SBCK_029-2b05}
   - {type: punctuation, offset: 694, content: (, id: KR4d0091_krp_029-bkkpn5}
+  - {type: voice, offset: 694, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 696, content: ), id: KR4d0091_krp_029-bkkpn6}
   - {type: 'kr:newline', offset: 696, content: '
 
@@ -313,6 +316,7 @@ markers:
   - {type: line-break, offset: 972, content: '', id: KR4d0091_SBCK_029-3a09}
   - {type: punctuation, offset: 990, content: (, id: KR4d0091_krp_029-bkkpn7}
   - {type: variant, offset: 990, length: 0, content: '', WYG: 某}
+  - {type: voice, offset: 990, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 991, content: /, id: KR4d0091_krp_029-bkkpn8}
   - {type: variant, offset: 991, length: 1, content: 某, WYG: ''}
   - {type: punctuation, offset: 992, content: ), id: KR4d0091_krp_029-bkkpn9}
@@ -798,4 +802,4 @@ markers:
   - {type: variant, offset: 2568, length: 0, content: '', WYG: 欽定四庫全書淮海集巻三十宋秦觀撰簡}
   - {type: page-break, offset: 2568, content: '', id: KR4d0091_WYG_030-1a, image: WYG1115/WYG1115-0580a.png}
   back: []
-hash: sha256:ef4e20931a358efd3e239c1d70ba9e2b80821432bbeeb5ab0d05dbc0dcfb12bd
+hash: sha256:487a7ed35db026cc07cb12d32809350b3ea6dc03f5a60773eb3105f4b9ca3084

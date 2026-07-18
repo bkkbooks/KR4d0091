@@ -24,6 +24,7 @@ markers:
   - {type: indent, offset: 4, content: 　　, id: KR4d0091_krp_011-bkkind4}
   - {type: punctuation, offset: 6, content: (, id: KR4d0091_krp_011-bkkpn1}
   - {type: variant, offset: 6, length: 7, content: 意録者失其序耳, WYG: ''}
+  - {type: voice, offset: 6, length: 15, name: note, id: n1}
   - {type: punctuation, offset: 13, content: /, id: KR4d0091_krp_011-bkkpn2}
   - {type: substitution, offset: 17, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: punctuation, offset: 21, content: ), id: KR4d0091_krp_011-bkkpn3}
@@ -211,6 +212,7 @@ markers:
   - {type: line-break, offset: 441, content: '', id: KR4d0091_SBCK_011-2a12}
   - {type: punctuation, offset: 448, content: (, id: KR4d0091_krp_011-bkkpn4}
   - {type: variant, offset: 448, length: 0, content: '', WYG: 倡首云西春雪京城一尺泥並鞍還}
+  - {type: voice, offset: 448, length: 59, name: note, id: n2}
   - {type: variant, offset: 451, length: 1, content: 西, WYG: ''}
   - {type: substitution, offset: 457, original: 闗, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19735}}
   - {type: punctuation, offset: 462, content: /, id: KR4d0091_krp_011-bkkpn5}
@@ -438,4 +440,4 @@ markers:
   - {type: variant, offset: 968, length: 0, content: '', WYG: 欽定四庫全書淮海集巻十二宋秦觀撰進策}
   - {type: page-break, offset: 968, content: '', id: KR4d0091_WYG_012-1a, image: WYG1115/WYG1115-0481a.png}
   back: []
-hash: sha256:f91194b8eb5a89dc8c6a5b914b19974af38656c0fc92f37a53263aeafd004428
+hash: sha256:e4ed77324643d12682d4aa16edc5740a299114ecb1fbe65e3247798284b8bb7a

@@ -660,6 +660,7 @@ markers:
       ', id: KR4d0091_krp_028-bkkkrnewl135}
   - {type: line-break, offset: 2320, content: '', id: KR4d0091_SBCK_028-6a06}
   - {type: punctuation, offset: 2331, content: (, id: KR4d0091_krp_028-bkkpn1}
+  - {type: voice, offset: 2331, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2333, content: ), id: KR4d0091_krp_028-bkkpn2}
   - {type: 'kr:newline', offset: 2333, content: '
 
@@ -748,6 +749,7 @@ markers:
       ', id: KR4d0091_krp_028-bkkkrnewl153}
   - {type: line-break, offset: 2636, content: '', id: KR4d0091_SBCK_028-6b11}
   - {type: punctuation, offset: 2651, content: (, id: KR4d0091_krp_028-bkkpn3}
+  - {type: voice, offset: 2651, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2653, content: ), id: KR4d0091_krp_028-bkkpn4}
   - {type: 'kr:newline', offset: 2653, content: '
 
@@ -763,4 +765,4 @@ markers:
   - {type: variant, offset: 2661, length: 0, content: '', WYG: 欽定四庫全書淮海集巻二十九宋秦觀撰啓}
   - {type: page-break, offset: 2661, content: '', id: KR4d0091_WYG_029-1a, image: WYG1115/WYG1115-0575a.png}
   back: []
-hash: sha256:03a583ab6e5b66793a6e9a12ffa8987718f9703680729531cf5b0d8e0a18c3b8
+hash: sha256:904c58d0b422a4045db5766e366a3b7d0e6e0ccdf36d20bdcdeba0cbe4793421

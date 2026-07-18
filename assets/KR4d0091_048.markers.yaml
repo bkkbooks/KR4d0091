@@ -184,6 +184,7 @@ markers:
   - {type: line-break, offset: 124, content: '', id: KR4d0091_SBCK_048-1b09}
   - {type: indent, offset: 124, content: 　　　, id: KR4d0091_krp_048-bkkind36}
   - {type: punctuation, offset: 129, content: (, id: KR4d0091_krp_048-bkkpn1}
+  - {type: voice, offset: 129, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 131, content: ), id: KR4d0091_krp_048-bkkpn2}
   - {type: 'kr:newline', offset: 131, content: '
 
@@ -248,6 +249,7 @@ markers:
   - {type: variant, offset: 186, length: 6, content: 長短句目鐸畢, WYG: 集巻六欽定四庫全書}
   - {type: page-break, offset: 186, content: '', id: KR4d0091_WYG_047-1a, image: WYG1115/WYG1115-0686c.png}
   - {type: punctuation, offset: 191, content: (, id: KR4d0091_krp_048-bkkpn3}
+  - {type: voice, offset: 191, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 192, content: ), id: KR4d0091_krp_048-bkkpn4}
   - {type: 'kr:newline', offset: 192, content: '
 
@@ -257,4 +259,4 @@ markers:
 
       ', id: KR4d0091_krp_048-bkkkrnewl33}
   back: []
-hash: sha256:0747eaba39340718d0410b020b45a6cce6cc1debec1712e204acafff23f90980
+hash: sha256:edc4a0314d793ee6409e61ad5273cefc19430ce4816e107e9c27a7ca4e6ef719

@@ -8,6 +8,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR4d0091_SBCK_038-1a01}
   - {type: variant, offset: 0, length: 13, content: 淮海集卷之三十八記秦觀少游, WYG: ''}
   - {type: punctuation, offset: 8, content: (, id: KR4d0091_krp_038-bkkpn1}
+  - {type: 'voice:problem', offset: 8, length: 0, id: KR4d0091_bkk_038-bkkvprob1, source: parens, bucket: front, code: unmatched-open, message: unmatched '(' at offset 8}
   body:
   - {type: punctuation, offset: 0, content: ), id: KR4d0091_krp_038-bkkpn1}
   - {type: 'kr:newline', offset: 0, content: '
@@ -15,6 +16,7 @@ markers:
       ', id: KR4d0091_krp_038-bkkkrnewl1}
   - {type: line-break, offset: 0, content: '', id: KR4d0091_SBCK_038-1a02}
   - {type: indent, offset: 0, content: 　　　　　　　　　　　　, id: KR4d0091_krp_038-bkkind1}
+  - {type: 'voice:problem', offset: 0, length: 0, id: KR4d0091_bkk_038-bkkvprob2, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 0 with no matching '('}
   - {type: indent, offset: 1, content: 　, id: KR4d0091_krp_038-bkkind2}
   - {type: indent, offset: 2, content: 　, id: KR4d0091_krp_038-bkkind3}
   - {type: substitution, offset: 3, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
@@ -1750,4 +1752,4 @@ markers:
   - {type: variant, offset: 6204, length: 0, content: '', WYG: 欽定四庫全書淮海集巻三十九宋秦觀撰序}
   - {type: page-break, offset: 6204, content: '', id: KR4d0091_WYG_039-1a, image: WYG1115/WYG1115-0641c.png}
   back: []
-hash: sha256:8f4371b5b511fa23bcdef5c5714090c00cb4d54d8cc226cb9e9274419e5a5e40
+hash: sha256:c0dc9a2a9357564b84aa999200876af67b60448fe8913ad9f300c67c36a4700c

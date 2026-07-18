@@ -68,6 +68,7 @@ markers:
   - {type: variant, offset: 128, length: 1, content: 宿, SBCK: 􅀫}
   - {type: punctuation, offset: 131, content: (, id: KR4d0091_krp_009-bkkpn1}
   - {type: variant, offset: 131, length: 0, content: '', WYG: 參寥次韻簷盤盤}
+  - {type: voice, offset: 131, length: 60, name: note, id: n1}
   - {type: variant, offset: 135, length: 1, content: 簷, WYG: ''}
   - {type: punctuation, offset: 138, content: /, id: KR4d0091_krp_009-bkkpn2}
   - {type: variant, offset: 138, length: 27, content: 參寥次韻􅐻盤清暁猊臺震險句窮宵虎穴探白傳異時修故事杖藜, WYG: ''}
@@ -125,6 +126,7 @@ markers:
   - {type: variant, offset: 247, length: 1, content: 却, SBCK: 􅁍}
   - {type: punctuation, offset: 254, content: (, id: KR4d0091_krp_009-bkkpn11}
   - {type: variant, offset: 254, length: 0, content: '', WYG: 倡首詩冥側徑縈}
+  - {type: voice, offset: 254, length: 118, name: note, id: n2}
   - {type: variant, offset: 257, length: 1, content: 㝠, WYG: ''}
   - {type: substitution, offset: 257, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17241}}
   - {type: variant, offset: 260, length: 1, content: 鬼, SBCK: 􅀑}
@@ -342,6 +344,7 @@ markers:
   - {type: variant, offset: 701, length: 1, content: 群, WYG: 羣}
   - {type: punctuation, offset: 706, content: (, id: KR4d0091_krp_009-bkkpn26}
   - {type: variant, offset: 706, length: 3, content: 少監韻, WYG: ''}
+  - {type: voice, offset: 706, length: 7, name: note, id: n3}
   - {type: punctuation, offset: 709, content: /, id: KR4d0091_krp_009-bkkpn27}
   - {type: punctuation, offset: 713, content: ), id: KR4d0091_krp_009-bkkpn28}
   - {type: 'kr:newline', offset: 713, content: '
@@ -362,6 +365,7 @@ markers:
   - {type: line-break, offset: 755, content: '', id: KR4d0091_SBCK_009-2b04}
   - {type: punctuation, offset: 769, content: (, id: KR4d0091_krp_009-bkkpn29}
   - {type: variant, offset: 769, length: 3, content: 侍郎韻, WYG: ''}
+  - {type: voice, offset: 769, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 772, content: /, id: KR4d0091_krp_009-bkkpn30}
   - {type: punctuation, offset: 776, content: ), id: KR4d0091_krp_009-bkkpn31}
   - {type: 'kr:newline', offset: 776, content: '
@@ -491,6 +495,7 @@ markers:
   - {type: punctuation, offset: 1044, content: (, id: KR4d0091_krp_009-bkkpn32}
   - {type: variant, offset: 1044, length: 1, content: 㑹, WYG: 會}
   - {type: substitution, offset: 1044, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
+  - {type: voice, offset: 1044, length: 6, name: note, id: n5}
   - {type: punctuation, offset: 1050, content: ), id: KR4d0091_krp_009-bkkpn33}
   - {type: 'kr:newline', offset: 1050, content: '
 
@@ -707,6 +712,7 @@ markers:
   - {type: line-break, offset: 1545, content: '', id: KR4d0091_SBCK_009-4b03}
   - {type: indent, offset: 1545, content: 　　, id: KR4d0091_krp_009-bkkind23}
   - {type: punctuation, offset: 1548, content: (, id: KR4d0091_krp_009-bkkpn34}
+  - {type: voice, offset: 1548, length: 14, name: note, id: n6}
   - {type: variant, offset: 1551, length: 1, content: 爲, WYG: 為}
   - {type: substitution, offset: 1551, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: variant, offset: 1557, length: 1, content: 錄, WYG: 録}
@@ -1407,4 +1413,4 @@ markers:
   - {type: variant, offset: 3254, length: 0, content: '', WYG: 欽定四庫全書淮海集巻十宋秦觀撰}
   - {type: page-break, offset: 3254, content: '', id: KR4d0091_WYG_010-1a, image: WYG1115/WYG1115-0474c.png}
   back: []
-hash: sha256:35c31aa93882dbd95364744f70e8141a1ddd2b4aea9e145a973d207a2fed2ffe
+hash: sha256:98d94b40728b8ab452a7d5bca0bad89ad95cfaea5caa1ce1b3510530cdbb151c

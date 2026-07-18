@@ -983,6 +983,7 @@ markers:
   - {type: indent, offset: 3347, content: 　, id: KR4d0091_krp_033-bkkind11}
   - {type: punctuation, offset: 3348, content: (, id: KR4d0091_krp_033-bkkpn1}
   - {type: variant, offset: 3348, length: 0, content: '', WYG: 一作}
+  - {type: voice, offset: 3348, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 3350, content: /, id: KR4d0091_krp_033-bkkpn2}
   - {type: variant, offset: 3350, length: 2, content: 一作, WYG: ''}
   - {type: punctuation, offset: 3352, content: ), id: KR4d0091_krp_033-bkkpn3}
@@ -1409,4 +1410,4 @@ markers:
   - {type: variant, offset: 4779, length: 0, content: '', WYG: 欽定四庫全書淮海集巻三十四宋秦觀撰}
   - {type: page-break, offset: 4779, content: '', id: KR4d0091_WYG_034-1a, image: WYG1115/WYG1115-0605a.png}
   back: []
-hash: sha256:29d75a887db7c51970032a0ca55869d24cab992284a9008bc04c6fdfbeaff1a2
+hash: sha256:03efffe9a7f4f74babf51345f16ef56ff38310102a7bb2a4941b3e03ff20a4bd
